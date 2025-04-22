@@ -8,3 +8,5 @@ Requirements for Parking lot
 5. The exist gate should process payment on an hourly basis.
 6. The parking lot should have parking facility for different types of vehicles.
 7. There should be display boards at each floor showing the detail of vecent spots on the floor.
+  # Design Patterns Used:
+Singleton Pattern: Ensures only one instance of the ParkingLot class.
